@@ -1,2 +1,3 @@
 # silver-telegram
-Clash Royale Analysis Tool
+Clash Royale Analysis 
+  - Cards + Card Combos you lose against most often
